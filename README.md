@@ -4,29 +4,29 @@
   <br>
   <br>
 </div>
-<div>
+<div align="center">
 <pre>
     📊 Passionate about <span style="color:#3B82F6">data</span> • AI enthusiast 🤖
     ✨ Turning raw information into <span style="color:#3B82F6">meaningful stories</span> 📖
     🚀 Exploring <span style="color:#3B82F6">Generative AI</span>, which feels almost magical 🪄
     🎨 Uncovering insights through <span style="color:#3B82F6">the art of data visualization</span> 📈
 </pre>
-<br><br>
+<br>
 
 <img src="https://media1.tenor.com/m/1CHzF_rsI-EAAAAC/gojo.gif" height="150" />
-<br><br>
+<br>
 
-<pre>
+<h3>
     🌍 Let's Connect with Me
-</pre>
+</h3>
 
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/angel-jsn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:angeljeanneshierlynajoan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <br><br>
 
-<pre>
+<h3>
     🛠 Tech Stack
-</pre>
+</h3>
 
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)](#)
