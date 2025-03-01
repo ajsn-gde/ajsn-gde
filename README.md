@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=1F253C&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi+there!;I'm+Angel%2C+A+data+enthusiast+%F0%9F%93%8A+%F0%9F%94%8D" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=5F77A0&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi+there!;I'm+Angel%2C+A+data+enthusiast+%F0%9F%94%8D" width="70%" />
 <br><br>
 
 <pre>
