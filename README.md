@@ -1,5 +1,9 @@
 ## Hi there 👋 I'm Angel 👋
 
+📊I'm passionate about data
+🤖Especially when uncovering insights, exploring AI, and transforming raw information into meaningful stories
+🪄Currently, I'm diving into the world of **generative AI**, which feels almost magical to me
+🎨While also exploring **the art of data visualization**
 <!--
 **ajsn-gde/ajsn-gde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
